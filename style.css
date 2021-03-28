@@ -49,3 +49,7 @@ body {
 #panacek {
 	z-index: 1;
 }
+
+body {
+  overflow: hidden;
+}
